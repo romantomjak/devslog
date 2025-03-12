@@ -29,4 +29,4 @@ used by the [log] package, so that existing applications that use [log.Printf]
 and related functions will send log records to the logger's handler without
 needing to be rewritten.
 */
-package main
+package devslog
